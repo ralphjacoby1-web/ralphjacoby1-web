@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a google forms ai automatic generation tool
+- 🌱 I’m currently learning C++
+
 <!--
 **ralphjacoby1-web/ralphjacoby1-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
