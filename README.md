@@ -1,19 +1,56 @@
-## Hi there 👋
+# Welcome!
 
-- 🔭 I’m currently working on a google forms ai automatic generation tool
-- 🌱 I’m currently learning C++
+I'm Ralph Jacoby, a Technology Management student in Argentina with a passion for software development, problem solving, and building practical technology solutions.
 
-<!--
-**ralphjacoby1-web/ralphjacoby1-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm particularly interested in **Software Engineering, Backend Development, Data Structures & Algorithms, and Cloud Technologies**.
 
-Here are some ideas to get you started:
+## What am I working on?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*  I'm currently studying a **Bachelor's Degree in Technology and Information Management at UADE**.
+*  I'm building projects mainly with **Java, Python, JavaScript, and SQL**.
+*  I'm currently focusing on **Data Structures & Algorithms, Object-Oriented Programming, Software Architecture, and Databases**.
+*  I'm also exploring **Spring Boot, Docker, Cloud technologies, and AI-powered applications**.
+
+## My favourite projects
+
+*  **[Sky Defense](#)** — A Java desktop game built using Object-Oriented Programming, Java Swing, MVC principles, and multiple game mechanics.
+*  **[FillBot](#)** — An AI-powered application that generates Google Forms from natural-language prompts using Python, React, OpenAI, and the Google Forms API.
+*  **[LeadHunter AI](#)** — A backend application built with Java and Spring Boot, featuring authentication, PostgreSQL, JWT, and AI integration.
+*  **[Data Structures & Algorithms](#)** — Implementations and experiments with lists, stacks, queues, trees, hash tables, priority queues, and other fundamental data structures.
+
+## Technologies
+
+### Languages
+
+`Java` `Python` `C` `JavaScript` `SQL` `HTML` `CSS`
+
+# Currently learning
+
+`C++`
+
+### Backend & Frameworks
+
+`Spring Boot` `FastAPI` `Flask`
+
+### Frontend
+
+`React` `Bootstrap`
+
+### Databases & Tools
+
+`PostgreSQL` `Git` `Docker` `GitHub`
+
+### Currently learning
+
+`Spring Boot` · `Cloud` · `System Design` · `Algorithms`
+
+## A little more about me
+
+* 🇦🇷 Based in Argentina
+* 🇩🇪 Interested in opportunities in Germany and Europe
+*  Passionate about automotive technology
+*  I enjoy turning real-world problems into software projects
+
+## Contact me
+
+For professional opportunities, collaborations, or just to talk about technology, feel free to reach out through GitHub.
