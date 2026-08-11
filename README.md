@@ -1,7 +1,6 @@
 # Welcome!
 
 I'm Ralph Jacoby, a Technology Management student in Argentina with a passion for software development, problem solving, and building practical technology solutions.
-
 I'm particularly interested in **Software Engineering, Backend Development, Data Structures & Algorithms, and Cloud Technologies**.
 
 ## What am I working on?
@@ -24,17 +23,9 @@ I'm particularly interested in **Software Engineering, Backend Development, Data
 
 `Java` `Python` `C` `JavaScript` `SQL` `HTML` `CSS`
 
-# Currently learning
-
-`C++`
-
-### Backend & Frameworks
-
-`Spring Boot` `FastAPI` `Flask`
-
 ### Frontend
 
-`React` `Bootstrap`
+ `Bootstrap`
 
 ### Databases & Tools
 
@@ -42,7 +33,7 @@ I'm particularly interested in **Software Engineering, Backend Development, Data
 
 ### Currently learning
 
-`Spring Boot` · `Cloud` · `System Design` · `Algorithms`
+`Spring Boot` · `Cloud` · `System Design` · `Algorithms` · `C++`
 
 ## A little more about me
 
@@ -50,7 +41,3 @@ I'm particularly interested in **Software Engineering, Backend Development, Data
 * 🇩🇪 Interested in opportunities in Germany and Europe
 *  Passionate about automotive technology
 *  I enjoy turning real-world problems into software projects
-
-## Contact me
-
-For professional opportunities, collaborations, or just to talk about technology, feel free to reach out through GitHub.
