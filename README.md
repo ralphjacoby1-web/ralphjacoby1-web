@@ -14,7 +14,6 @@ I'm particularly interested in **Software Engineering, Backend Development, Data
 
 *  **[Sky Defense](#)** — A Java desktop game built using Object-Oriented Programming, Java Swing, MVC principles, and multiple game mechanics.
 *  **[FillBot](#)** — An AI-powered application that generates Google Forms from natural-language prompts using Python, React, OpenAI, and the Google Forms API.
-*  **[LeadHunter AI](#)** — A backend application built with Java and Spring Boot, featuring authentication, PostgreSQL, JWT, and AI integration.
 *  **[Data Structures & Algorithms](#)** — Implementations and experiments with lists, stacks, queues, trees, hash tables, priority queues, and other fundamental data structures.
 
 ## Technologies
