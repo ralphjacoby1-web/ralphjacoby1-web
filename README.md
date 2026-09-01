@@ -12,9 +12,9 @@ I'm particularly interested in **Software Engineering, Backend Development, Data
 
 ## My favourite projects
 
-*  **[Sky Defense](#)** — A Java desktop game built using Object-Oriented Programming, Java Swing, MVC principles, and multiple game mechanics.
-*  **[FillBot](#)** — An AI-powered application that generates Google Forms from natural-language prompts using Python, React, OpenAI, and the Google Forms API.
-*  **[Data Structures & Algorithms](#)** — Implementations and experiments with lists, stacks, queues, trees, hash tables, priority queues, and other fundamental data structures.
+*  **[Sky Defense](https://github.com/ralphjacoby1-web/Sky-Defense)** — A Java desktop game built using Object-Oriented Programming, Java Swing, MVC principles, and multiple game mechanics.
+*  **[FillBot](https://github.com/ralphjacoby1-web/fillbot)** — An AI-powered application that generates Google Forms from natural-language prompts using Python, React, OpenAI, and the Google Forms API.
+*  **[Data Structures & Algorithms](https://github.com/ralphjacoby1-web/University-Data-Algorithms-Project)** — Implementations and experiments with lists, stacks, queues, trees, hash tables, priority queues, and other fundamental data structures.
 
 ## Technologies
 
