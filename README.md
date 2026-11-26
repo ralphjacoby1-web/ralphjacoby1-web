@@ -1,42 +1,31 @@
-# Welcome!
-
-I'm Ralph Jacoby, a Technology Management student in Argentina with a passion for software development, problem solving, and building practical technology solutions.
-I'm particularly interested in **Software Engineering, Backend Development, Data Structures & Algorithms, and Cloud Technologies**.
-
-## What am I working on?
-
-*  I'm currently studying a **Bachelor's Degree in Technology and Information Management at UADE**.
-*  I'm building projects mainly with **Java, Python, JavaScript, and SQL**.
-*  I'm currently focusing on **Data Structures & Algorithms, Object-Oriented Programming, Software Architecture, and Databases**.
-*  I'm also exploring **Spring Boot, Docker, Cloud technologies, and AI-powered applications**.
-
-## My favourite projects
-
-*  **[Sky Defense](https://github.com/ralphjacoby1-web/Sky-Defense)** — A Java desktop game built using Object-Oriented Programming, Java Swing, MVC principles, and multiple game mechanics.
-*  **[FillBot](https://github.com/ralphjacoby1-web/fillbot)** — An AI-powered application that generates Google Forms from natural-language prompts using Python, React, OpenAI, and the Google Forms API.
-*  **[Data Structures & Algorithms](https://github.com/ralphjacoby1-web/University-Data-Algorithms-Project)** — Implementations and experiments with lists, stacks, queues, trees, hash tables, priority queues, and other fundamental data structures.
-
-## Technologies
-
-### Languages
-
-`Java` `Python` `C` `JavaScript` `SQL` `HTML` `CSS`
-
-### Frontend
-
- `Bootstrap`
-
-### Databases & Tools
-
-`PostgreSQL` `Git` `Docker` `GitHub`
-
-### Currently learning
-
-`Spring Boot` · `Cloud` · `System Design` · `Algorithms` · `C++`
-
-## A little more about me
-
-* 🇦🇷 Based in Argentina
-* 🇩🇪 Interested in opportunities in Germany and Europe
-*  Passionate about automotive technology
-*  I enjoy turning real-world problems into software projects
+# Hi, I'm Ralph 👋
+ 
+I'm a Technology & Information Management student at UADE (Argentina) who likes building software that solves real problems. I'm interested in **backend development, algorithms and software architecture**, and I'm looking for a **6-month software internship in Munich (Jan/Feb – Jul/Aug 2027)**.
+ 
+🇩🇪 German citizen · German C1 · English B2 · Spanish native
+ 
+## What I'm working on
+ 
+- 🎮 **Minimax strategy for a Go game**: decision making based on minimax search that will be integrated into the University Social Network as a new feature.
+- 📚 2nd year of my degree, focused on algorithm design, data engineering and software engineering.
+## Featured projects
+ 
+| Project | What it is | Stack |
+|---|---|---|
+| **[FillBot](https://github.com/ralphjacoby1-web/fillbot)** | Turns a plain-language description into a real Google Form, including auto-graded exams. Validation-and-retry loop around the model, OAuth 2.0, 113 tests in CI. | Python · Flask · OpenAI API · SQLite · Docker · GitHub Actions |
+| **[University Social Network](https://github.com/Alexis-9/TPO-Dise-o-y-An-lisis-de-Algoritmos)** | Team project (3 people) where every feature uses a different algorithm design strategy: merge sort, Dijkstra, 0/1 knapsack, Floyd–Warshall, backtracking and branch & bound. I built the REST API, the SVG graph frontend, Floyd–Warshall and the Docker deploy. | Java · Javalin · JavaScript · Maven · JUnit 5 · Docker |
+| **[Sky Defense](https://github.com/ralphjacoby1-web/Sky-Defense)** | 2D arcade game built by a team of four with MVC, input and audio behind interfaces so the game logic can be unit tested. | Java · Swing · JUnit 5 |
+| **[University Management System](https://github.com/ralphjacoby1-web/University-Data-Algorithms-Project)** | Console app built on nine data structures written from scratch (AVL, B-tree, graph, priority queue and more), each chosen for its access pattern. | Java |
+ 
+## Tech
+ 
+**Languages:** `Java` `Python` `JavaScript` `SQL` `C` `HTML` `CSS`
+**Backend:** `Flask` `Javalin` `REST APIs` `SQLite`
+**Tools:** `Git` `GitHub Actions` `Docker` `Maven` `JUnit` `pytest` `Jira`
+ 
+**Currently learning:** Spring Boot, PostgreSQL, game AI (minimax, alpha-beta pruning)
+ 
+## Contact
+ 
+[LinkedIn](https://www.linkedin.com/in/ralph-emmanuel-jacoby)
+ 
