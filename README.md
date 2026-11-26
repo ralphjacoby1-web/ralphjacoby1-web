@@ -1,13 +1,13 @@
-# Hi, I'm Ralph 👋
+# Hi, I'm Ralph 
  
 I'm a Technology & Information Management student at UADE (Argentina) who likes building software that solves real problems. I'm interested in **backend development, algorithms and software architecture**, and I'm looking for a **6-month software internship in Munich (Jan/Feb – Jul/Aug 2027)**.
  
-🇩🇪 German citizen · German C1 · English B2 · Spanish native
+🇩🇪 German citizen · German C1 · English B2 · Spanish native · French B1 · Portuguese A1
  
 ## What I'm working on
  
-- 🎮 **Minimax strategy for a Go game**: decision making based on minimax search that will be integrated into the University Social Network as a new feature.
-- 📚 2nd year of my degree, focused on algorithm design, data engineering and software engineering.
+-  **Minimax strategy for a Go game**: decision making based on minimax search that will be integrated into the University Social Network as a new feature.
+-  2nd year of my degree, focused on algorithm design, data engineering and software engineering.
 ## Featured projects
  
 | Project | What it is | Stack |
@@ -20,7 +20,9 @@ I'm a Technology & Information Management student at UADE (Argentina) who likes 
 ## Tech
  
 **Languages:** `Java` `Python` `JavaScript` `SQL` `C` `HTML` `CSS`
+
 **Backend:** `Flask` `Javalin` `REST APIs` `SQLite`
+
 **Tools:** `Git` `GitHub Actions` `Docker` `Maven` `JUnit` `pytest` `Jira`
  
 **Currently learning:** Spring Boot, PostgreSQL, game AI (minimax, alpha-beta pruning)
